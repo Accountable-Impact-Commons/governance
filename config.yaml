@@ -36,3 +36,7 @@ repositories:
     teams:
       accountable-impact-commons-maintainers: maintain
     visibility: public
+  - name: accountable-impact-commons.github.io
+    teams:
+      accountable-impact-commons-maintainers: maintain
+    visibility: public
